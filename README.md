@@ -1,5 +1,5 @@
 # pandas-challenge
-
+[Module 4 Challenge: PyCitySchools](https://github.com/jerrettw/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.ipynb)
 
 ANALYSIS:
 After analyzing data from 15 schools, it was found that 65.17% of students passed both math and reading, with 78.99% passing math and 81.88% passing reading. However, schools with 2500+ students had a lower passing rate of under 55%. This indicates that the student to teacher ratio may be too large for effective learning. Furthermore, the bottom performing schools had average math scores around 6% lower than the top performing schools, all of which had more than 2500 students. Interestingly, there is a correlation suggesting that lower spending per student is associated with higher math and reading scores. It is suggested that the allocation of funds be reviewed for schools with higher spending ranges per student. In addition, charter schools outperformed district schools with a math passing rate over 20% higher and a reading passing rate over 15% higher.
